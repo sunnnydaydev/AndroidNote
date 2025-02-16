@@ -26,7 +26,7 @@
 
 ###### [Material Design UI Components](https://github.com/sunnnydaydev/MaterialDesign)
 
-###### Computer Vision
+###### 3D and AR
 
 - [OpenGL ES](https://github.com/sunnnydaydev/OpenGlES)
 - [Google ARCore](https://github.com/sunnnydaydev/NoteGoogleArCore)
@@ -35,7 +35,7 @@
 ###### [Android Util Tools](https://github.com/sunnnydaydev/UtilsTool)
 
 
-###### 技术实践
+###### Technical Practice
 
 - [安卓全埋点](https://github.com/sunnnydaydev/BuryingPoint/tree/master)
 - 模块化:todo 参考 Now in Android
