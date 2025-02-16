@@ -23,6 +23,7 @@
 - [Rxjava](https://github.com/sunnnydaydev/NoteRxJava)
 - Glide
 - EventBus
+- Gson
 
 ###### [Material Design UI Components](https://github.com/sunnnydaydev/MaterialDesign)
 
