@@ -38,10 +38,8 @@
 ###### 技术实践
 
 - [安卓全埋点](https://github.com/sunnnydaydev/BuryingPoint/tree/master)
-
-模块化:todo 参考 Now in Android
-
-插件化
+- 模块化:todo 参考 Now in Android
+- 插件化
 
 
 
